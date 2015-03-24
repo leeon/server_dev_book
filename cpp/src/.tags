@@ -1,0 +1,44 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+A	basic.h	/^class A$/;"	c
+A	datatype.cc	/^    A,$/;"	e	enum:eTable	file:
+B	datatype.cc	/^    B,$/;"	e	enum:eTable	file:
+C	datatype.cc	/^    C,$/;"	e	enum:eTable	file:
+D	datatype.cc	/^    D,$/;"	e	enum:eTable	file:
+E	datatype.cc	/^    E,$/;"	e	enum:eTable	file:
+F	datatype.cc	/^    F,$/;"	e	enum:eTable	file:
+G	datatype.cc	/^    G,$/;"	e	enum:eTable	file:
+H	datatype.cc	/^    H,$/;"	e	enum:eTable	file:
+I	datatype.cc	/^    I,$/;"	e	enum:eTable	file:
+J	datatype.cc	/^    J,$/;"	e	enum:eTable	file:
+K	datatype.cc	/^    K,$/;"	e	enum:eTable	file:
+L	datatype.cc	/^    L,$/;"	e	enum:eTable	file:
+M	datatype.cc	/^    M,$/;"	e	enum:eTable	file:
+N	datatype.cc	/^    N,$/;"	e	enum:eTable	file:
+O	datatype.cc	/^    O,$/;"	e	enum:eTable	file:
+P	datatype.cc	/^    P,$/;"	e	enum:eTable	file:
+PLANT_PL_CPP_BASIC_	basic.h	/^#define PLANT_PL_CPP_BASIC_ /;"	d
+Q	datatype.cc	/^    Q,$/;"	e	enum:eTable	file:
+R	datatype.cc	/^    R,$/;"	e	enum:eTable	file:
+S	datatype.cc	/^    S,$/;"	e	enum:eTable	file:
+T	datatype.cc	/^    T,$/;"	e	enum:eTable	file:
+a_on	datatype.cc	/^    a_on = 2,$/;"	e	enum:eA	file:
+b_on	datatype.cc	/^    b_on = 2,$/;"	e	enum:eB	file:
+diff_array_with_ptr	datatype.cc	/^void diff_array_with_ptr()$/;"	f
+diff_constptr_with_ptrconst	datatype.cc	/^void diff_constptr_with_ptrconst()$/;"	f
+eA	datatype.cc	/^enum eA$/;"	g	file:
+eB	datatype.cc	/^enum eB$/;"	g	file:
+eTable	datatype.cc	/^enum eTable$/;"	g	file:
+m_a	basic.h	/^    int m_a;$/;"	m	class:A
+m_b	basic.cc	/^int A::m_b = 2;/;"	m	class:A	file:
+m_b	basic.h	/^    static int m_b;$/;"	m	class:A
+m_c	basic.h	/^    static const int m_c = 3;$/;"	m	class:A
+main	datatype.cc	/^int main(int argc, char const *argv[])$/;"	f
+test_array	datatype.cc	/^void test_array()$/;"	f
+test_enum	datatype.cc	/^void test_enum()$/;"	f
+test_sizeof	datatype.cc	/^void test_sizeof()$/;"	f
+test_type_conversion	datatype.cc	/^void test_type_conversion()$/;"	f
